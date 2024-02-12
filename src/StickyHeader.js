@@ -4,13 +4,13 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faChevronLeft } from '@fortawesome/free-solid-svg-icons'
 import { faEllipsis } from '@fortawesome/free-solid-svg-icons'
 
-const StickyHeader = () => {
+const StickyHeader = ({ toggleComponent, convoTarget }) => {
   return (
     <div className="sticky-header">
       <div className="top-row">
         <div className="left">
-            <FontAwesomeIcon className="back-icon" icon={faChevronLeft} />
-            <div className="name"><strong>Alicia</strong></div>
+            <FontAwesomeIcon className="back-icon" onClick={toggleComponent} icon={faChevronLeft} />
+            <div className="name"><strong>{convoTarget}</strong></div>
         </div>
         <div className="right">
           <div className="options-icon">
