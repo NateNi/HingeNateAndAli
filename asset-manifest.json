@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/HingeNateAndAli/static/css/main.792a121d.css",
-    "main.js": "/HingeNateAndAli/static/js/main.43e51800.js",
+    "main.css": "/HingeNateAndAli/static/css/main.80372420.css",
+    "main.js": "/HingeNateAndAli/static/js/main.463faed2.js",
     "static/js/787.ea7f98f5.chunk.js": "/HingeNateAndAli/static/js/787.ea7f98f5.chunk.js",
     "static/media/Alicia.jpg": "/HingeNateAndAli/static/media/Alicia.e2148f74785a42958837.jpg",
     "static/media/Nathan.JPG": "/HingeNateAndAli/static/media/Nathan.85e811a352c076eca675.JPG",
     "index.html": "/HingeNateAndAli/index.html",
-    "main.792a121d.css.map": "/HingeNateAndAli/static/css/main.792a121d.css.map",
-    "main.43e51800.js.map": "/HingeNateAndAli/static/js/main.43e51800.js.map",
+    "static/media/mini-heart.svg": "/HingeNateAndAli/static/media/mini-heart.ce7d04bed607f500f383.svg",
+    "main.80372420.css.map": "/HingeNateAndAli/static/css/main.80372420.css.map",
+    "main.463faed2.js.map": "/HingeNateAndAli/static/js/main.463faed2.js.map",
     "787.ea7f98f5.chunk.js.map": "/HingeNateAndAli/static/js/787.ea7f98f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.792a121d.css",
-    "static/js/main.43e51800.js"
+    "static/css/main.80372420.css",
+    "static/js/main.463faed2.js"
   ]
 }
