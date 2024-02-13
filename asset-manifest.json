@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HingeNateAndAli/static/css/main.bcbb6896.css",
-    "main.js": "/HingeNateAndAli/static/js/main.d4de4484.js",
+    "main.css": "/HingeNateAndAli/static/css/main.df8a64e2.css",
+    "main.js": "/HingeNateAndAli/static/js/main.96563fd8.js",
     "static/js/787.ea7f98f5.chunk.js": "/HingeNateAndAli/static/js/787.ea7f98f5.chunk.js",
     "static/media/Alicia.jpg": "/HingeNateAndAli/static/media/Alicia.e2148f74785a42958837.jpg",
     "static/media/Nathan.JPG": "/HingeNateAndAli/static/media/Nathan.85e811a352c076eca675.JPG",
     "index.html": "/HingeNateAndAli/index.html",
-    "main.bcbb6896.css.map": "/HingeNateAndAli/static/css/main.bcbb6896.css.map",
-    "main.d4de4484.js.map": "/HingeNateAndAli/static/js/main.d4de4484.js.map",
+    "main.df8a64e2.css.map": "/HingeNateAndAli/static/css/main.df8a64e2.css.map",
+    "main.96563fd8.js.map": "/HingeNateAndAli/static/js/main.96563fd8.js.map",
     "787.ea7f98f5.chunk.js.map": "/HingeNateAndAli/static/js/787.ea7f98f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcbb6896.css",
-    "static/js/main.d4de4484.js"
+    "static/css/main.df8a64e2.css",
+    "static/js/main.96563fd8.js"
   ]
 }
